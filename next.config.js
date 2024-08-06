@@ -9,6 +9,7 @@ const config = {
   images: {
     domains: ["dummyimage.com"],
   },
+  output: "standalone",
 };
 
 export default config;
